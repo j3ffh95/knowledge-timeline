@@ -20,3 +20,8 @@ body {
   overflow-x: hidden;
   padding-bottom: 50px;
 }
+
+#main-header {
+  background: var(--secondary-color);
+  padding: 4rem 0;
+}
