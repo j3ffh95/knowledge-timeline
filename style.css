@@ -65,3 +65,8 @@ h1 {
 #timeline ul li:nth-child(odd) div {
   left: 40px;
 }
+
+/* Left Side */
+#timeline ul li:nth-child(even) div {
+  left: -433px;
+}
